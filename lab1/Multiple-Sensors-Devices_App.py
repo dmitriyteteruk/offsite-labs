@@ -6,19 +6,18 @@ import string
 import iotc
 from iotc import IOTConnectType, IOTLogLevel, IOTMessageStatus, IOTQosLevel
 from random import randint, random, uniform, choice
-# import time
 
 #
 # Credentials FOR DEVICE from you IoT Central App
-# DO NOT DISTRIBUTE CODE WITH CREDENTIALS TO CUSTOMERS!
+# DO NOT DISTRIBUTE CODE WITH CREDENTIALS TO PARNTERS & CUSTOMERS!
 #
-# Instert credentials for non-simulated your device that you added 
-# to list of devices in your in-store-analytics IoT Central App
+# Insert credentials for non-simulated device that you added 
+# to list of devices in your IoT Central App
 #
 
-deviceId = "MultiSensorDevice1"
-scopeId = "0ne000979EE"
-deviceKey = "R5a2EveEprn5pWgAO/UjF+jmpu8X+c4bvhpQY9Ogpps="
+deviceId = "Your Device ID"
+scopeId = "Your Scope ID"
+deviceKey = "Your Device Key"
 
 
 # see iotc.Device documentation above for x509 argument sample
@@ -97,8 +96,8 @@ while iotc.isConnected():
 \"state\": " + str(choice(state_list)) + "}")
 
     gCounter += 1
-    batterylevel1 -= 0.001
-    batterylevel2 -= 0.0011
-    batterylevel3 -= 0.0012
-    batterylevel4 -= 0.0015
-    batterylevel5 -= 0.0014
+    batterylevel1 -= 0.002
+    batterylevel2 -= 0.003
+    batterylevel3 -= 0.004
+    batterylevel4 -= 0.005
+    batterylevel5 -= 0.006
