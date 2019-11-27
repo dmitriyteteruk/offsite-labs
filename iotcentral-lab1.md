@@ -28,7 +28,27 @@ Please install required development environment on your laptop  (Python, IOTC cl
 
 ## 2. Copy required code to your laptop
 ### 2.1. Copy Python Application code
+Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
 
+ - Copy entire code from the file
+ 
+![](lab1/lab1-1.PNG)
+![](lab1/lab1-2.PNG)
 
-### 2.2. Copy Device Capability Model to your laptop
+ - Open VS Code and create New file
 
+![](lab1/lab1-3.PNG)
+
+Paste code into new file
+
+Save file with Python Application extension `*.py`. 
+
+### 2.2. Copy Device Capability Model
+Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
+
+Copy code from line #1 to line #103/
+![](media/lab1/Save-Run.png)
+
+Open VS Code, create New file and Paste code into it.
+
+Save file with Code as Python Application.
