@@ -1,6 +1,6 @@
 # LAB 1 - Retail Scenario
 
-### Background story
+## Background story
 You are at industry event and a visitor start discussion during networking session.
 > Hello! 
 My name is James Bond and I am owner of a retail store. It is important for me to be sure that environment in my store is good (not very cold and not too hot) and clients feels good. At the same time I need to be sure that dwell time is adequate and customers do not spend half of day in a queues. In addition, it is very important to be aware if temperatures in Frozen or Cold zones is out of normal range to avoid unnecessary lost from spoiled goods.
@@ -22,8 +22,13 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 6. Copy Credentials for your device into Python application code and save this application.
 7. Run Python application and see how telemetry go to IoT Central App.
 
-### 1. Prepare you laptop for demo
+## 1. Prepare you laptop for demo
 If you already prepared your laptop before, then skip step 1.
 Please install required development environment on your laptop  (Python, IOTC client, VS Code) using this tutorial.
 
+## 2. Copy required code to your laptop
+### 2.1. Copy Python Application code
+
+
+### 2.2. Copy Device Capability Model to your laptop
 
