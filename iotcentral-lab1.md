@@ -79,4 +79,6 @@ Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser 
  ![](lab1/lab1-14.PNG)
  ![](lab1/lab1-15.PNG)
  
- - Click on [this link](https://apps.azureiotcentral.com/build/new/a48aafe5-4649-4646-a7d8-4e116b6521f4) to get Application Template for Retail Solution
+ **Note that using Azure IoT Central you can replicate Application in a seconds using** ***Application template export*** **feature. **
+ 
+ - Click on [this link](https://apps.azureiotcentral.com/build/new/9e71d211-592d-444c-862d-f7c19e031214) to get Application Template for Custom Retail Demo.
