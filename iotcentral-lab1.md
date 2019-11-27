@@ -44,7 +44,7 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 ![](lab1/lab1-4.PNG) 
 ![](lab1/lab1-5.PNG) 
 
- - Save file with Python Application extension `*.py`. 
+ - Save As file with Python Application extension `*.py`. 
 
 ![](lab1/lab1-6.PNG)
 ![](lab1/lab1-7.1.PNG)
@@ -56,9 +56,18 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 ### 2.2. Copy Device Capability Model
 Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
 
-Copy code from line #1 to line #103/
-![](media/lab1/Save-Run.png)
+- Copy entire code from the file
 
-Open VS Code, create New file and Paste code into it.
+![](lab1/lab1-9.PNG)
+![](lab1/lab1-10.PNG)
 
-Save file with Code as Python Application.
+- Open VS Code and create New File and Paste code in it
+
+![](lab1/lab1-11.PNG)
+
+ - Save As file with JSON with Comments extension `*.json`. 
+ ![](lab1/lab1-12.PNG)
+
+- Code start to be colorful after files is saved.
+
+![](lab1/lab1-13.PNG)
