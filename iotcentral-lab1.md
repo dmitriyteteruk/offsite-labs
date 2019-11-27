@@ -39,7 +39,9 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 
 ![](lab1/lab1-3.PNG)
 
-Paste code into new file
+ - Paste code into new file
+ 
+![](lab1/lab1-4.PNG) 
 
 Save file with Python Application extension `*.py`. 
 
