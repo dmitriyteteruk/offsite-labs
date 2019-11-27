@@ -21,3 +21,9 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 5. Add Real device into your application and assign that device to your Device Capability model
 6. Copy Credentials for your device into Python application code and save this application.
 7. Run Python application and see how telemetry go to IoT Central App.
+
+### 1. Prepare you laptop for demo
+If you already prepared your laptop before, then skip step 1.
+Please install required development environment on your laptop  (Python, IOTC client, VS Code) using this tutorial.
+
+
