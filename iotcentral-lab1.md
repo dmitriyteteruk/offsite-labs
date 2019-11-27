@@ -77,5 +77,6 @@ Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser 
  - Sign-in with your working Azure credentials (work account)
  
  ![](lab1/lab1-14.PNG)
+ ![](lab1/lab1-15.PNG)
  
  - Click on [this link](https://apps.azureiotcentral.com/build/new/a48aafe5-4649-4646-a7d8-4e116b6521f4) to get Application Template for Retail Solution
