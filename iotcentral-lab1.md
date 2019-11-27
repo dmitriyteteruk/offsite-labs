@@ -14,8 +14,8 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 ## What you need to do a live demo?
 1. First of all, you need to prepare you laptop for demo using [this tutorial](link).
 2. You need to copy code from following files and save them on your PC:
-  - [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
-  - [Plug and Play device capability model](lab1/Multi_Thermostat_Occupancy%20-%20capability%20model.json) that contains all information about device that you will use for demo
+   - [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
+   - [Plug and Play device capability model](lab1/Multi_Thermostat_Occupancy%20-%20capability%20model.json) that contains all information about device that you will use for demo
 3. Create IoT Central application (Azure subscription is required) using Application Template (via shared link)
 4. Import PnP Device Capability model
 5. Add Real device into your application and assign that device to your Device Capability model
