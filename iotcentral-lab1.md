@@ -71,3 +71,11 @@ Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser 
 - Code start to be colorful after files is saved.
 
 ![](lab1/lab1-13.PNG)
+
+## Create Azure IoT Central application
+ - Open [Azure IoT Central web-site](https://apps.azureiotcentral.com/)
+ - Sign-in with your working Azure credentials (work account)
+ 
+ ![](lab1/lab1-14.PNG)
+ 
+ - Click on [this link](https://apps.azureiotcentral.com/build/new/a48aafe5-4649-4646-a7d8-4e116b6521f4) to get Application Template for Retail Solution
