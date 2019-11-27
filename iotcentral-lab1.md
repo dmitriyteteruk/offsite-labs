@@ -13,9 +13,9 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 
 ## What you need to do live demo?
 1. First of all, you need to prepare you laptop for demo using [this tutorial](link).
-2. You need to download following files:
-  - Python Application that will simulate device with multiple sensors
-  - Plug and Play device capability model that contains all information about device that you will use for demo
+2. You need to copy code from following files:
+  - [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
+  - [Plug and Play device capability model] that contains all information about device that you will use for demo
 3. Create IoT Central application (Azure subscription is required)
 
 
