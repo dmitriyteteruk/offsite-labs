@@ -11,11 +11,13 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 -	Contoso device is certified as Plug and Play ready and you need just several minutes to start with it! You no need to be a programmer and cloud expert and it is very easy to calculate monthly cost of this solution, thanks to our Azure IoT Central SaaS offer.
 -	Let me show you, how it works!
 
-## What you need to do live demo?
+## What you need to do a live demo?
 1. First of all, you need to prepare you laptop for demo using [this tutorial](link).
-2. You need to copy code from following files:
+2. You need to copy code from following files and save them on your PC:
   - [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
-  - [Plug and Play device capability model]() that contains all information about device that you will use for demo
-3. Create IoT Central application (Azure subscription is required)
-
-
+  - [Plug and Play device capability model](lab1/Multi_Thermostat_Occupancy%20-%20capability%20model.json) that contains all information about device that you will use for demo
+3. Create IoT Central application (Azure subscription is required) using Application Template (via shared link)
+4. Import PnP Device Capability model
+5. Add Real device into your application and assign that device to your Device Capability model
+6. Copy Credentials for your device into Python application code and save this application.
+7. Run Python application and see how telemetry go to IoT Central App.
