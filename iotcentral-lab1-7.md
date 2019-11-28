@@ -33,27 +33,69 @@ You can drag and drop and modify tiles one by one or drag and drop all tiles and
 
  ![](lab1/lab1-44.PNG)
  
- Now click on `Save` button to see if our tiles show data from our devices.
+ Now click on `Save` button to see if our tiles shows real-time data from our simulated device.
  
  ![](lab1/lab1-45.PNG)
  
- If you see graphics on you tiles then eeverythin is correct and we need to do some design modifications for these tiles.<br>
+ If you see graphics on you tiles then everything is correct and we need to do some design modifications for these tiles.<br>
  Click `Edit` button on top of Dashboard name.
  
  ![](lab1/lab1-46.PNG)
  
  ### Modify Count tiles
  
- Find tile **Count1** and hover on rulers icon, then choose `Last Known Value` option in drop-down list.
+ Find tile **Count1** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.
  
  ![](lab1/lab1-47.PNG)
  
 **Configure last known value** menu will appear on the left side. Change name from **Count1** to **Queue Length (people)** and then click `Update` button.
  
- ![](lab1/lab1-48.PNG)
+![](lab1/lab1-48.PNG)
  
 Repeat this for tiles Count2 and Count3, then Click  `Save` on the top left corner of Dashboard Menu.
 
-Click `Edit`
+Click `Edit` then and resize tiles with name **Queue Length (people)** to 1x1 option. It is not available in size-menu (left side from  gearwheel), but you can change size using mouse.
+
+Click on the bottom right corner of the tile and pull it to the top left corner. Repeat this action for all tiles named **Queue Length (people)** then Click  `Save` on the top left corner of Dashboard Menu.
+*Note* that option to resize `Last Know Value` tiles availibale only after you `Update` tile and `Save` dashboard.
+
+![](lab1/lab1-50.PNG)
  
-### Modify Count tiles
+ Updated **Queue Length (people)** tile should look like on image below.
+ 
+![](lab1/lab1-51.PNG)
+
+### Modify temperature tiles
+
+You should be in `Edit` mode of your dashboard.<br><br>
+Find tile **Temperature4** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.<br>
+Change `Title` to **Frozen Zone Temp (C)**. Click `Update` button.<br><br>
+
+Find tile **Temperature5** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.<br>
+Change `Title` to **Refrigerated Zone Temp (C)**. Click `Update` button, then `Save` button.<br><br>
+![](lab1/lab1-53.PNG)<br>
+![](lab1/lab1-54.PNG)
+
+Click `Edit` then and resize tiles with name **Frozen Zone Temp (C)** and **Refrigerated Zone Temp (C)** tiles to 1x1 size. <br>
+Click on the bottom right corner of the tile and pull it to the top left corner.
+
+Move tiles under appropriate tile on Dashboard. Click `Save` on the top left corner of Dashboard Menu.
+
+### Modify Dwell Time tiles
+
+ Find tile **Dwell Time 1** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.
+ 
+ ![](lab1/lab1-55.PNG)
+ 
+**Configure last known value** menu will appear on the left side. Change name from **Dwell Time 1** to **Dwell Time 1 (minutes)** and then click `Update` button.
+ 
+![](lab1/lab1-52.PNG)
+ 
+Repeat this for tiles **Dwell Time 2** and **Dwell Time 3**, then Click  `Save` on the top left corner of Dashboard Menu.
+
+Click `Edit` then and resize tiles with name **Dwell Time x (minutes)** names to 1x1 size. <br>
+Click on the bottom right corner of the tile and pull it to the top left corner.
+
+Move **Dwell Time** tiles under **Queue Length (people)** tiles. 
+
+Then Click `Save` on the top left corner of Dashboard Menu.
