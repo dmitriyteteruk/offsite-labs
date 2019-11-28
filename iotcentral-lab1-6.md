@@ -37,5 +37,13 @@ Find file with name `device-graphs-icon-1800x200.png` on your PC and upload it.
 ![](lab1/lab1-36.PNG)
 
 You should see new image icon once it is uploaded. Click `Update` button on bottom part of menu.
+
 ![](lab1/lab1-37.PNG)
 
+Now both updated tiles should look good. Click `Save` button on top-left part of the window to svae you default dashboard view devices.
+
+![](lab1/lab1-38.PNG)
+
+Then click `Publish` button on top-right part of the window to publish updated device template. Otherwise device will continue to use old template version.
+
+![](lab1/lab1-39.PNG)
