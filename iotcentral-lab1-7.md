@@ -186,3 +186,8 @@ Repeat steps from **Update Frozen Zone dashboard** excersize, but choose **Tempe
 As result you should see **Refrigerated Zone dashboard** like on image below.
  
 ![](lab1/lab1-73.PNG)
+
+### Lab Navigation Menu
+[Go forward - 8. Add image to your IoT Central application](/iotcentral-lab1-8.md)<br>
+[Go back - 6. Update Default Device Dashboard](/iotcentral-lab1-6.md)<br>
+[Go to main page of the LAB](/iotcentral-lab1-0.md)
