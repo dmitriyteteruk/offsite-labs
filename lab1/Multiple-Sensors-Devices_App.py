@@ -22,7 +22,7 @@ deviceKey = "Your Device Key"
 
 # see iotc.Device documentation above for x509 argument sample
 iotc = iotc.Device(scopeId, deviceKey, deviceId, IOTConnectType.IOTC_CONNECT_SYMM_KEY)
-iotc.setLogLevel(IOTLogLevel.IOTC_LOGGING_API_ONLY))
+iotc.setLogLevel(IOTLogLevel.IOTC_LOGGING_ALL)
 iotc.setQosLevel(IOTQosLevel.IOTC_QOS_AT_MOST_ONCE)
 
 gCanSend = False
