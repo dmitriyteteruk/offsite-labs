@@ -11,7 +11,7 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 -	Contoso device is certified as Plug and Play ready and you need just several minutes to start with it! You no need to be a programmer and cloud expert and it is very easy to calculate monthly cost of this solution, thanks to our Azure IoT Central SaaS offer.
 -	Let me show you, how it works!
 
-## What you need to do a live demo?
+## What you need for a live demo?
 1. [Prepare your laptop for demo](iotcentral-lab1-1.md). If you done it before, please skip this clause.
 2. [Copy code of Python Application](iotcentral-lab1-2.md) that will simulate device with multiple sensors
 3. [Create IoT Central application](iotcentral-lab1-3.md) (Azure subscription is required) using Application Template (via shared link)
