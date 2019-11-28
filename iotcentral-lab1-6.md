@@ -1,4 +1,4 @@
-## 6. Update Application Default Device Dashboard
+## 6. Update Default Device Dashboard
 
 In IoT Central app menu click on `Device Templates` -> `Multi Sensor Device V1`
 
