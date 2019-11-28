@@ -16,9 +16,9 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 2. Copy code of [Python Application](iotcentral-lab1-2.md) that will simulate device with multiple sensors
 3. [Create IoT Central application](iotcentral-lab1-3.md) (Azure subscription is required) using Application Template (via shared link)
 4. [Add Real device into your application](iotcentral-lab1-4.md) and assign that device to your Device Capability model
-5. [Copy Credentials for your device into Python application[iotcentral-lab1-5.md] code and save this application.
-6. Run Python application and see how telemetry go to IoT Central App.
-7. Update Application Dashboard with new tiles that will show data that your data sends.
+5. [Copy Credentials for your device into Python application[iotcentral-lab1-5.md] code and save this application and Run it.
+6. Update Default Device Dashboard related to device template
+7. Update Application Dashboards
 8. Creat 
 
 ## 1. Prepare you laptop for demo
