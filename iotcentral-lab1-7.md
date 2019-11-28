@@ -153,3 +153,21 @@ Drag and Drop to dashboard following telemetry tiles:<br>
  
  ![](lab1/lab1-66.PNG)
  
+Now we need to update tiles names to meaningful information:
+
+Find tile **Temperature4** and hover on `rulers` icon and click on it, then choose `Linear chart` option in drop-down list.
+
+ ![](lab1/lab1-67.PNG)
+
+Change title name to **Temperature History (12h)**, choose **Past 12 hours** option from `Time range` drop-down list. Click `Update`.<br>
+Move tile to left side of dashboard. 
+
+Find tile **BatteryLevel4** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.
+
+ ![](lab1/lab1-69.PNG)
+
+Change title name to **Temperature History (12h)**, choose **Past 12 hours** option from `Time range` drop-down list. Click `Update` and then click `Save`. <br>
+Click `Edit` and resize tile to 1x1 size using you mouse. Move tile to the top right corner of the dashboard. 
+
+ ![](lab1/lab1-71.PNG)
+ 
