@@ -26,5 +26,5 @@ Open page with [Python Application code](https://raw.githubusercontent.com/dmitr
 
 ### Lab Navigation Menu
 [Go forward - 3. Create Azure IoT Central application](/iotcentral-lab1-3.md)<br>
-[Go back - 2. Copy Python Application code](/iotcentral-lab1-1-2.md)<br>
+[Go back - 2. Copy Python Application code](/iotcentral-lab1-2.md)<br>
 [Go to main menu page](/iotcentral-lab1-0.md)
