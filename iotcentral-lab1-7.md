@@ -1,4 +1,4 @@
-## Update Application Dashboards
+## 7. Update Application Dashboards
 
 Now we need to update three IoT Central aplication dashboards. Technically, you can create them from scratch, but some images already added on out visualisation via Template Export.
 
