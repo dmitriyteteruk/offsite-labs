@@ -12,15 +12,14 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 -	Let me show you, how it works!
 
 ## What you need to do a live demo?
-1. First of all, you need to prepare you laptop for demo using [this tutorial](link). If you done it before, please skip this clause.
-2. Copy code of [Python Application](iotcentral-lab1-2.md) that will simulate device with multiple sensors
+1. [Prepare your laptop for demo](iotcentral-lab1-1.md). If you done it before, please skip this clause.
+2. [Copy code of Python Application](iotcentral-lab1-2.md) that will simulate device with multiple sensors
 3. [Create IoT Central application](iotcentral-lab1-3.md) (Azure subscription is required) using Application Template (via shared link)
 4. [Add Real device into your application](iotcentral-lab1-4.md) and assign that device to your Device Capability model
-5. [Copy Credentials for your device into Python application[iotcentral-lab1-5.md] code and save this application and Run it.
-6. Update Default Device Dashboard related to device template
-7. Update Application Dashboards
-8. Creat 
+5. [Copy device credentials into Python application and run it](iotcentral-lab1-5.md)
+6. [Update Default Device Dashboard related to device template](iotcentral-lab1-6.md)
+7. [Update Application Dashboards](iotcentral-lab1-7.md)
+8. [Add image to your IoT Central application](iotcentral-lab1-8.md)
 
-## 1. Prepare you laptop for demo
-If you already prepared your laptop before, then skip step 1.
-Please install required development environment on your laptop  (Python, IOTC client, VS Code) using this tutorial.
+### Lab Navigation Menu
+[Go forward - 1. Prepare your laptop for demo](/iotcentral-lab1-1.md)
