@@ -1,10 +1,10 @@
 ## 7. Update Application Dashboards
 
-Now we need to update three IoT Central aplication dashboards. Technically, you can create them from scratch, but some images already added on out visualisation via Template Export.
+Now we need to update three IoT Central application dashboards. Technically, you can create them from scratch, but some images already added on out visualization via Template Export.
 
-We will update (re-create) tiles otlined with yellow color.
+We will update (re-create) tiles outlined with yellow color.
 
-Click on `Dashboard` item on IoT Central application menu. Check that you are on **01. Main Dasboard** page and then click `Edit` button on the top left corner of the window.
+Click on `Dashboard` item on IoT Central application menu. Check that you are on **01. Main Dashboard** page and then click `Edit` button on the top left corner of the window.
 
 ![](lab1/lab1-41.PNG)
 
@@ -12,19 +12,19 @@ Once edit option appears use `X` icon to remove tiles from dashboard.
 
 ![](lab1/lab1-42.PNG)
 
-You dashboard shoold look like this now.
+You dashboard should look like this now.
 
 ![](lab1/lab1-43.PNG)
 
 Now you need add new tiles. <br>
-In Dashboad menu choose `Multi Sensor Device v1` in *Device template* drop-down menu, then choose `Multi Sensor Device v1 - xxxxx` in *Device instance* drop-down menu. You will see list of all possible telemetry options that we are collecting.
+In Dashboard menu choose `Multi Sensor Device v1` in *Device template* drop-down menu, then choose `Multi Sensor Device v1 - xxxxx` in *Device instance* drop-down menu. You will see list of all possible telemetry options that we are collecting.
 
 Drag and Drop to dashboard following telemetry tiles:
  - Count1 (this is people counter sensor installed near cahs-desk #1)
  - Count2 (this is people counter sensor installed near cahs-desk #2)
  - Count3 (this is people counter sensor installed near cahs-desk #3)
  - Dwell Time 1 (this is time counter sensor installed near cahs-desk #1)
- - Dwell Time 2 (this is time counte sensor installed near cahs-desk #2)
+ - Dwell Time 2 (this is time counter sensor installed near cahs-desk #2)
  - Dwell Time 3 (this is time counter sensor installed near cahs-desk #3)
  - Temperature4 (this is temperature sensor installed in Frozen area -20-15 degrees)
  - Temperature5 (this is temperature sensor installed in Refrigerated area +5+10 degrees)
@@ -33,7 +33,7 @@ You can drag and drop and modify tiles one by one or drag and drop all tiles and
 
  ![](lab1/lab1-44.PNG)
  
- Now click on `Save` button to see if our tiles shows real-time data from our simulated device.
+ Now click on `Save` button to see if our tiles show real-time data from our simulated device.
  
  ![](lab1/lab1-45.PNG)
  
@@ -52,12 +52,12 @@ You can drag and drop and modify tiles one by one or drag and drop all tiles and
  
 ![](lab1/lab1-48.PNG)
  
-Repeat this for tiles Count2 and Count3, then Click  `Save` on the top left corner of Dashboard Menu.
+Repeat this for tiles Count2 and Count3, then Click `Save` on the top left corner of Dashboard Menu.
 
-Click `Edit` then and resize tiles with name **Queue Length (people)** to 1x1 option. It is not available in size-menu (left side from  gearwheel), but you can change size using mouse.
+Click `Edit` then and resize tiles with name **Queue Length (people)** to 1x1 option. It is not available in size-menu (left side from gearwheel), but you can change size using mouse.
 
-Click on the bottom right corner of the tile and pull it to the top left corner. Repeat this action for all tiles named **Queue Length (people)** then Click  `Save` on the top left corner of Dashboard Menu.
-*Note* that option to resize `Last Know Value` tiles availibale only after you `Update` tile and `Save` dashboard.
+Click on the bottom right corner of the tile and pull it to the top left corner. Repeat this action for all tiles named **Queue Length (people)** then Click `Save` on the top left corner of Dashboard Menu.
+*Note* that option to resize `Last Know Value` tiles available only after you `Update` tile and `Save` dashboard.
 
 ![](lab1/lab1-50.PNG)
  
@@ -140,7 +140,7 @@ Once edit option appears use `X` icon to remove four tiles from dashboard.
 ![](lab1/lab1-64.PNG)
 
 Now you need add new tiles. <br>
-In Dashboad menu choose `Multi Sensor Device v1` in *Device template* drop-down menu, then choose `Multi Sensor Device v1 - xxxxx` in *Device instance* drop-down menu. You will see list of all possible telemetry options that we are collecting.
+In Dashboard menu choose `Multi Sensor Device v1` in *Device template* drop-down menu, then choose `Multi Sensor Device v1 - xxxxx` in *Device instance* drop-down menu. You will see list of all possible telemetry options that we are collecting.
 
 ![](lab1/lab1-65.PNG)
 
@@ -149,7 +149,7 @@ Drag and Drop to dashboard following telemetry tiles:<br>
  - **Humidity4** (this is humidity sensor installed in Frozen area)
  - **Battery4** (this is battery level from sensor installed in Frozen area)
  
- This is how yout **Frozen Zone dashboard** should look like now.
+ This is how your **Frozen Zone dashboard** should look like now.
  
  ![](lab1/lab1-66.PNG)
  
@@ -182,7 +182,7 @@ Click `Edit` and resize tile to 1x1 size using you mouse. Move tile to the top r
  ![](lab1/lab1-72.PNG)
  
 ## Update Refrigerated Zone dashboard
-Repeat steps from **Update Frozen Zone dashboard** excersize, but choose **Temperature5**, **Humidity5**, **BatteryLevel5** telemetry.<br>
+Repeat steps from **Update Frozen Zone dashboard** exercise, but choose **Temperature5**, **Humidity5**, **BatteryLevel5** telemetry.<br>
 As result you should see **Refrigerated Zone dashboard** like on image below.
  
 ![](lab1/lab1-73.PNG)
