@@ -36,3 +36,24 @@ You can drag and drop and modify tiles one by one or drag and drop all tiles and
  Now click on `Save` button to see if our tiles show data from our devices.
  
  ![](lab1/lab1-45.PNG)
+ 
+ If you see graphics on you tiles then eeverythin is correct and we need to do some design modifications for these tiles.<br>
+ Click `Edit` button on top of Dashboard name.
+ 
+ ![](lab1/lab1-46.PNG)
+ 
+ ### Modify Count tiles
+ 
+ Find tile **Count1** and hover on rulers icon, then choose `Last Known Value` option in drop-down list.
+ 
+ ![](lab1/lab1-47.PNG)
+ 
+**Configure last known value** menu will appear on the left side. Change name from **Count1** to **Queue Length (people)** and then click `Update` button.
+ 
+ ![](lab1/lab1-48.PNG)
+ 
+Repeat this for tiles Count2 and Count3, then Click  `Save` on the top left corner of Dashboard Menu.
+
+Click `Edit`
+ 
+### Modify Count tiles
