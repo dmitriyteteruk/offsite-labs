@@ -51,3 +51,8 @@ Then click `Publish` button on top-right part of the window to publish updated d
 Click `Publish` on menu that appears on the screen.
 
 ![](lab1/lab1-40.PNG)
+
+### Lab Navigation Menu
+[Go forward - 7. Update Application Dashboards](/iotcentral-lab1-7.md)<br>
+[Go back - 5. Copy device credentials into Python application and run it](/iotcentral-lab1-5.md)<br>
+[Go to main page of the LAB](/iotcentral-lab1-0.md)
