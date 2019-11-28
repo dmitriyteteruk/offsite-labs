@@ -1,4 +1,4 @@
-## Add Real device into your application
+## 4. Add Real device into your application
 
 Go to Navigation Menu of your IoT Central application at left side of page.
 Click on <br>`Devices` -> `Multi Sensor Device v1` -> `+ New`
@@ -31,4 +31,5 @@ You can copy credentials into Notepad application as in temporary storage.
 ### Lab Navigation Menu
 [Go forward - 5. Copy Credentials for your device into Python application](/iotcentral-lab1-5.md)<br>
 [Go back - 3. Create Azure IoT Central application](/iotcentral-lab1-3.md)<br>
-[Go to main menu page](/iotcentral-lab1-0.md)
+[Go to main page of the LAB](/iotcentral-lab1-0.md)
+
