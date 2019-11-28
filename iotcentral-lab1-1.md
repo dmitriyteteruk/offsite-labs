@@ -99,3 +99,7 @@ Now you need to install two extensions that will help VS Code to understand and 
  ![](media/vscode/vscode14.PNG)
 
 ***Congratulation! Now your PC ready for HOL!***
+
+### Lab Navigation Menu
+[Go forward - 2. Copy Python Application code](/iotcentral-lab1-2.md)<br>
+[Go to main page of the LAB](/iotcentral-lab1-0.md)
