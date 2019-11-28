@@ -24,4 +24,4 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 
 ![](lab1/lab1-7.2.PNG)
 
-[Go to step 3 -  ]
+[Go to step 3 - Create IoT Central application](/iotcentral-lab1-3.md)
