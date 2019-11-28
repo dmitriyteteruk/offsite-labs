@@ -40,7 +40,7 @@ You should see new image icon once it is uploaded. Click `Update` button on bott
 
 ![](lab1/lab1-37.PNG)
 
-Now both updated tiles should look good. Click `Save` button on top-left part of the window to svae you default dashboard view devices.
+Now both updated tiles should look good. Click `Save` button on top-left part of the window to save you default dashboard view devices.
 
 ![](lab1/lab1-38.PNG)
 
