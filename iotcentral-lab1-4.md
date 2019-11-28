@@ -25,6 +25,7 @@ You need to copy device credentials to you Python application code:
  - Primary Key
 
 ![](lab1/lab1-22.PNG)
+
 You can copy credentials into Notepad application as in temporary storage.
 
 ### Lab Navigation Menu
