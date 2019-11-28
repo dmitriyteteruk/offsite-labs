@@ -160,7 +160,11 @@ Find tile **Temperature4** and hover on `rulers` icon and click on it, then choo
  ![](lab1/lab1-67.PNG)
 
 Change title name to **Temperature History (12h)**, choose **Past 12 hours** option from `Time range` drop-down list. Click `Update`.<br>
-Move tile to left side of dashboard. 
+
+Repeat same actions for **Humidity4** and **BatterLevel4** tiles.<br>
+As result you should have 3 `Linear charts` with history for 12 hours of Temperature, Humidity and Battery level.
+
+
 
 Find tile **BatteryLevel4** and hover on `rulers` icon and click on it, then choose `Last Known Value` option in drop-down list.
 
@@ -171,3 +175,14 @@ Click `Edit` and resize tile to 1x1 size using you mouse. Move tile to the top r
 
  ![](lab1/lab1-71.PNG)
  
+ Click on `Save` button.
+ 
+ Once dashboard is updated you should see history data in it like on image below.
+ 
+ ![](lab1/lab1-72.PNG)
+ 
+## Update Refrigerated Zone dashboard
+Repeat steps from **Update Frozen Zone dashboard** excersize, but choose **Temperature5**, **Humidity5**, **BatteryLevel5** telemetry.<br>
+As result you should see **Refrigerated Zone dashboard** like on image below.
+ 
+![](lab1/lab1-73.PNG)
