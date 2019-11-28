@@ -131,6 +131,25 @@ Choose **Frozen Zone Dashboard**
 
 ![](lab1/lab1-62.PNG)
 
-On page of **Frozen Zone Dashboard** click on `Edit` button. You need to modify 4 tiles outlined with yellow color.
+On page of **Frozen Zone Dashboard** click on `Edit` button. You need to modify (re-create) 4 tiles outlined with yellow color.
 
 ![](lab1/lab1-63.PNG)
+
+Once edit option appears use `X` icon to remove four tiles from dashboard.
+
+![](lab1/lab1-64.PNG)
+
+Now you need add new tiles. <br>
+In Dashboad menu choose `Multi Sensor Device v1` in *Device template* drop-down menu, then choose `Multi Sensor Device v1 - xxxxx` in *Device instance* drop-down menu. You will see list of all possible telemetry options that we are collecting.
+
+![](lab1/lab1-65.PNG)
+
+Drag and Drop to dashboard following telemetry tiles:<br>
+ - **Temperature4** (this is temperature sensor installed in Frozen area -20-15 degrees) - add to times
+ - **Humidity4** (this is humidity sensor installed in Frozen area)
+ - **Battery4** (this is battery level from sensor installed in Frozen area)
+ 
+ This is how yout **Frozen Zone dashboard** should look like now.
+ 
+ ![](lab1/lab1-66.PNG)
+ 
