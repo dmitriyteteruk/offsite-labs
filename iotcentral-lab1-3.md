@@ -24,4 +24,8 @@ You should see your new application `Main Dashboard` once application is provisi
 
 ![](lab1/lab1-17.PNG)
 
+### Lab Navigation Menu
+[Go forward - 4. Add Real device into your application](/iotcentral-lab1-4.md)<br>
+[Go back - 2. Copy Python Application code](/iotcentral-lab1-2.md)<br>
+[Go to main menu page](/iotcentral-lab1-0.md)
 
