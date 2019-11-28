@@ -26,9 +26,13 @@ Drag and Drop to dashboard following telemetry tiles:
  - Dwell Time 1 (this is time counter sensor installed near cahs-desk #1)
  - Dwell Time 2 (this is time counte sensor installed near cahs-desk #2)
  - Dwell Time 3 (this is time counter sensor installed near cahs-desk #3)
- - Temperature4 (this is temperature sensor installed in Frozen area)
- - Temperature5 (this is temperature sensor installed in Refrigerated area)
+ - Temperature4 (this is temperature sensor installed in Frozen area -20-15 degrees)
+ - Temperature5 (this is temperature sensor installed in Refrigerated area +5+10 degrees)
  
 You can drag and drop and modify tiles one by one or drag and drop all tiles and then modify them.
 
  ![](lab1/lab1-44.PNG)
+ 
+ Now click on `Save` button to see if our tiles show data from our devices.
+ 
+ ![](lab1/lab1-45.PNG)
