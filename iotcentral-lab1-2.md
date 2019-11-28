@@ -25,6 +25,6 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 ![](lab1/lab1-7.2.PNG)
 
 ### Lab Navigation Menu
-[Go forward - 3. Create IoT Central application](/iotcentral-lab1-3.md)
-[Go back - 2. Copy Python Application code](/iotcentral-lab1-2.md)
-[Go to main menu page](/iotcentral-lab1-0.md)
+[Go forward - 3. Create IoT Central application](/iotcentral-lab1-3.md)<br>
+[Go back - 2. Copy Python Application code](/iotcentral-lab1-2.md)<br>
+[Go to main menu page](/iotcentral-lab1-0.md)<br>
