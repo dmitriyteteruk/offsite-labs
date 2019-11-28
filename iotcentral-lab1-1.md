@@ -1,6 +1,7 @@
 # 1. Prepare your laptop for demo
 
 ### Prepare your laptop
+*Note* If you done it before, please skip this clause and go to [step 2](iotcentral-lab1-2.md)
 * [install Python](#install-python-on-your-laptop)
 * [check Python version](#check-python-version)
 * [install IOTC client](#install-iotc-library-iot-central-python-client)
@@ -101,5 +102,5 @@ Now you need to install two extensions that will help VS Code to understand and 
 ***Congratulation! Now your PC ready for HOL!***
 
 ### Lab Navigation Menu
-[Go forward - 2. Copy Python Application code](/iotcentral-lab1-2.md)<br>
-[Go to main page of the LAB](/iotcentral-lab1-0.md)
+[Go forward - 2. Copy Python Application code](iotcentral-lab1-2.md)<br>
+[Go to main page of the LAB](iotcentral-lab1-0.md)
