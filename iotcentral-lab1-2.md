@@ -1,5 +1,5 @@
 ## 2. Copy Python Application code
-Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
+Open page with [Python Application code](https://raw.githubusercontent.com/dmitriyteteruk/offsite-labs/master/lab1/Multiple-Sensors-Devices_App.py) in a new browser Tab using `Ctrl + left mouse click`.
 
  - Copy entire code from the file
  
