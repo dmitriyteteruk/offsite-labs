@@ -64,8 +64,8 @@ In Command Prompt type  `pip install iotc` and push Enter. You should see downlo
 
 * [x] Check "Create a desktop icon"
 * [x] Check "Open with Code" action to Windows Explorer file context menu"
-* [x] Check "Open with Code" action to Windows Explorer directiry context menu"
-* [x] Check "Add to PATH (requiers shell restart)"
+* [x] Check "Open with Code" action to Windows Explorer directory context menu"
+* [x] Check "Add to PATH (requires shell restart)"
 - Then "Click `Next` button
 
 ![](media/vscode/vscode4.PNG)
@@ -95,7 +95,7 @@ Now you need to install two extensions that will help VS Code to understand and 
  
  ![](media/vscode/vscode13.PNG)  
    
-   - Put text `& python -m pip install -U pylint --user` in Teminal window and push `Enter`
+   - Put text `& python -m pip install -U pylint --user` in Terminal window and push `Enter`
    
  ![](media/vscode/vscode14.PNG)
 
