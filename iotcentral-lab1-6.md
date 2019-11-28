@@ -13,7 +13,7 @@ Find tile with text **Go back to Main Dashboard <<<** and click on `gear-wheel` 
 
 ![](lab1/lab1-30.PNG)
 
-**Configure markdown content** menu appear on the screen. Click on Image icon to upload new image.
+**Configure markdown content** menu appears on the screen. Click on Image icon to upload new image.
 
 ![](lab1/lab1-31.PNG)
 
@@ -28,7 +28,7 @@ Find wide tile with text **Below you can find.....** and click on `gear-wheel` t
 
 ![](lab1/lab1-34.PNG)
 
-**Configure markdown content** menu appear on the screen. Click on Image icon to upload new image.
+**Configure markdown content** menu appears on the screen. Click on Image icon to upload new image.
 
 ![](lab1/lab1-35.PNG)
 
@@ -38,3 +38,4 @@ Find file with name `device-graphs-icon-1800x200.png` on your PC and upload it.
 
 You should see new image icon once it is uploaded. Click `Update` button on bottom part of menu.
 ![](lab1/lab1-37.PNG)
+
