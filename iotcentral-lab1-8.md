@@ -41,4 +41,4 @@ And you will see Command Prompt with your application!
 
 ### Lab Navigation Menu
 [Go back - 7. Update Application Dashboards](/iotcentral-lab1-7.md)<br>
-[Go to main page of the page LAB](/iotcentral-lab1-0.md)
+[Go to main page of the page LAB](/iotcentral-lab1-0.md) 
