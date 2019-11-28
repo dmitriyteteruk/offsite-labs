@@ -18,8 +18,8 @@ Click on `Devices` -> `Multi Sensor Device V1 - xxxx` name.
 
 ![](lab1/lab1-26.PNG)
 
-You should see default device Dashboard with numbers and timestamps in some tiles.
-Please note. Some tiles will look not good, because Application Template feature does not copying files (images) related in particular devices. We will fix broken tiles during next steps.
+You should see default device Dashboard with numbers and timestamps in some tiles.<br>
+*Please note.* Some tiles will look not good, because Application Template feature does not copying files (images) related in particular devices. We will fix broken tiles during next steps.
 
 ![](lab1/lab1-27.PNG)
 
