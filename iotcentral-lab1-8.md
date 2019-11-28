@@ -1,4 +1,4 @@
-## 8. Add image for you IoT Central application
+## 8. Add image to your IoT Central application
 Click on `Administration` button in IoT Central application menu.<br>
 Then click on `Application settings` button and then `Select image` button. 
 
