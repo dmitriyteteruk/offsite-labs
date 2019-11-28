@@ -47,3 +47,7 @@ Now both updated tiles should look good. Click `Save` button on top-left part of
 Then click `Publish` button on top-right part of the window to publish updated device template. Otherwise device will continue to use old template version.
 
 ![](lab1/lab1-39.PNG)
+
+Click `Publish` on menu that appears on the screen.
+
+![](lab1/lab1-40.PNG)
