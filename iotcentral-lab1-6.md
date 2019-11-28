@@ -1,5 +1,14 @@
 ## 6. Update Default Device Dashboard
 
+
+Open [this image](/icons/dashboard_icon.png) in a new browser window using `Ctrl + left click`. Then `Rigth click` on the image and choose `Save image as`, then save it on your PC.<br>
+
+![](lab1/lab1-79.PNG)
+
+Open [this image](/icons/device-graphs-icon-1800x200.png) in a new browser window using `Ctrl + left click`. Then `Rigth click` on the image and choose `Save image as`, then save it on your PC.<br>
+
+![](lab1/lab1-80.PNG)
+
 In IoT Central app menu click on `Device Templates` -> `Multi Sensor Device V1`
 
 ![](lab1/lab1-28.PNG)
