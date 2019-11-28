@@ -12,22 +12,19 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 -	Let me show you, how it works!
 
 ## What you need to do a live demo?
-1. First of all, you need to prepare you laptop for demo using [this tutorial](link).
-2. You need to copy code from following files and save them on your PC:
-   - [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
-   - [Plug and Play device capability model](lab1/Multi_Thermostat_Occupancy%20-%20capability%20model.json) that contains all information about device that you will use for demo
+1. First of all, you need to prepare you laptop for demo using [this tutorial](link). If you done it before, please skip this clause.
+2. You need to copy code of [Python Application](lab1/Multiple-Sensors-Devices_App.py) that will simulate device with multiple sensors
 3. Create IoT Central application (Azure subscription is required) using Application Template (via shared link)
-4. Import PnP Device Capability model
-5. Add Real device into your application and assign that device to your Device Capability model
-6. Copy Credentials for your device into Python application code and save this application.
-7. Run Python application and see how telemetry go to IoT Central App.
+4. Add Real device into your application and assign that device to your Device Capability model
+5. Copy Credentials for your device into Python application code and save this application.
+6. Run Python application and see how telemetry go to IoT Central App.
+7. Update Application Dashboard with new tiles that will show data that your data sends.
 
 ## 1. Prepare you laptop for demo
 If you already prepared your laptop before, then skip step 1.
 Please install required development environment on your laptop  (Python, IOTC client, VS Code) using this tutorial.
 
-## 2. Copy required code to your laptop
-### 2.1. Copy Python Application code
+## 2. Copy Python Application code
 Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
 
  - Copy entire code from the file
@@ -53,26 +50,7 @@ Open page with [Python Application code](ADD LINK TO RAW FILE) in a new browser 
 
 ![](lab1/lab1-7.2.PNG)
 
-### 2.2. Copy Device Capability Model
-Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser Tab using `Ctrl + left mouse click`.
-
-- Copy entire code from the file
-
-![](lab1/lab1-9.PNG)
-![](lab1/lab1-10.PNG)
-
-- Open VS Code and create New File and Paste code in it
-
-![](lab1/lab1-11.PNG)
-
- - Save As file with JSON with Comments extension `*.json`. 
- ![](lab1/lab1-12.PNG)
-
-- Code start to be colorful after files is saved.
-
-![](lab1/lab1-13.PNG)
-
-## Create Azure IoT Central application
+## 3. Create Azure IoT Central application
  - Open [Azure IoT Central web-site](https://apps.azureiotcentral.com/)
  - Sign-in with your working Azure credentials (work account)
  
@@ -81,4 +59,4 @@ Open page with [Device Capability Model](ADD LINK TO RAW FILE) in a new browser 
  
  **Note that using Azure IoT Central you can replicate Application in a seconds using** ***Application template export*** **feature. **
  
- - Click on [this link](https://apps.azureiotcentral.com/build/new/9e71d211-592d-444c-862d-f7c19e031214) to get Application Template for Custom Retail Demo.
+ - Click on [this link](https://apps.azureiotcentral.com/build/new/d500b389-0837-4518-85c8-e77d86b43451) to get Application Template for Custom Retail Demo.
