@@ -1,4 +1,7 @@
 ## 8. Add image to your IoT Central application
+Open [this image](/icons/store-logo.png) in a new browser window using `Ctrl + left click`. Then `Rigth click` on the image and choose `Save image as`, then save it on your PC.<br>
+![](lab1/lab1-81.PNG)
+
 Click on `Administration` button in IoT Central application menu.<br>
 Then click on `Application settings` button and then `Select image` button. 
 
