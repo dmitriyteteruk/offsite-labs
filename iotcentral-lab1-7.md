@@ -99,3 +99,38 @@ Click on the bottom right corner of the tile and pull it to the top left corner.
 Move **Dwell Time** tiles under **Queue Length (people)** tiles. 
 
 Then Click `Save` on the top left corner of Dashboard Menu.
+
+Now you Dashboard should start show real-time numbers and looks like on below image.
+
+![](lab1/lab1-55.PNG)
+
+## Update link to device page
+Click on `Devices` link in IoT Central application menu and then click on device name `Multi Sensor Device v1 xxx`.
+
+Copy link from address bar in your browser window `/details/device/my-sensor-device1/`
+
+Click on `Dashboard` link in IoT Central application menu
+
+![](lab1/lab1-58.PNG)
+
+Click `Edit` button on Dashboard page
+
+![](lab1/lab1-59.PNG)
+
+Click `Gearwheel` icon on tile with text **Go to All sensors**
+
+![](lab1/lab1-60.PNG)
+
+Paste copied URL into **URL** area, then click on `Update` button and then `Save` button.
+
+![](lab1/lab1-61.PNG)
+
+## Update Frozen Zone dashboard
+Click on arrow to the right of **01 Main Dashboard** name to see list of available dashboards via drop-down menu.<br>
+Choose **Frozen Zone Dashboard**
+
+![](lab1/lab1-62.PNG)
+
+On page of **Frozen Zone Dashboard** click on `Edit` button. You need to modify 4 tiles outlined with yellow color.
+
+![](lab1/lab1-63.PNG)
