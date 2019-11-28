@@ -26,4 +26,4 @@ You should see default device Dashboard with numbers and timestamps in some tile
 ### Lab Navigation Menu
 [Go forward - 6. Update Application Dashboard](/iotcentral-lab1-6.md)<br>
 [Go back - 4. Add Real device into your application](/iotcentral-lab1-4.md)<br>
-[Go to main menu page](/iotcentral-lab1-0.md)
+[Go to main page of the LAB](/iotcentral-lab1-0.md)
