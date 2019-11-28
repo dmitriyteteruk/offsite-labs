@@ -22,8 +22,7 @@ deviceKey = "Your Device Key"
 
 # see iotc.Device documentation above for x509 argument sample
 iotc = iotc.Device(scopeId, deviceKey, deviceId, IOTConnectType.IOTC_CONNECT_SYMM_KEY)
-#iotc.setLogLevel(IOTLogLevel.IOTC_LOGGING_ALL)
-iotc.setLogLevel(IOTLogLevel.IOTC_LOGGING_ALL)
+iotc.setLogLevel(IOTLogLevel.IOTC_LOGGING_API_ONLY))
 iotc.setQosLevel(IOTQosLevel.IOTC_QOS_AT_MOST_ONCE)
 
 gCanSend = False
@@ -64,7 +63,7 @@ iotc.connect()
 while iotc.isConnected():
   iotc.doNext() # do the async work needed to be done for MQTT
   if gCanSend == True:
-    if gCounter % 120 == 0:
+    if gCounter % 60 == 0:
       gCounter = 0
       print("Sending telemetry...")
       iotc.sendTelemetry("{ \
