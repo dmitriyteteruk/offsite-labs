@@ -20,6 +20,7 @@ My name is James Bond and I am owner of a retail store. It is important for me t
 6. [Update Default Device Dashboard related to device template](iotcentral-lab1-6.md)
 7. [Update Application Dashboards](iotcentral-lab1-7.md)
 8. [Add image to your IoT Central application](iotcentral-lab1-8.md)
+9. [Bonus-track. Add Plu&Play device to you IoT Central Application](iotcentral-lab1-9.md)
 
 ### Lab Navigation Menu
 [Go forward - 1. Prepare your laptop for demo](/iotcentral-lab1-1.md)
