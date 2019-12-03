@@ -12,5 +12,7 @@ Got to [IoT Central web-site](https://apps.azureiotcentral.com) and try to login
 ### Industry Scenarios
 Please choose one of three Industry scenearios that you would like to use during Hands On Lab:
 * [Retail Scenario](iotcentral-lab1-0.md)
-* Logistic
 * Healthcare
+* Logistic - this HOL will be created ince PG will fix some known issue with Geolocation telemetry:
+  - GeoJSON isn't currently supported
+  - Map tile isn't currently supported.
