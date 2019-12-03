@@ -33,8 +33,6 @@ And you will see Command Prompt with your application!
 
 ![](lab1/lab1-78.PNG)
 
-# The End.
-
 ### Lab Navigation Menu
 [Go forward - 9. Bonus: Adding Plug and Play device demo](/iotcentral-lab1-9.md)<br>
 [Go back - 7. Update Application Dashboards](/iotcentral-lab1-7.md)<br>
