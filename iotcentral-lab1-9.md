@@ -5,11 +5,11 @@ Mr. Bond was very impressed with your demonstration of Azur IoT Central. But he 
 
 ### Now, you will do real demo of adding Plug and Play Device to current IoT Central Application
 
-> Great questions, Mr. Bond! Micrsoft is simplifying IoT with Azure IoT Central SaaS offering and more and more device builders certify their devices for Plug and Play technology that helps end-customers to use IoT without any problems! Let me show!
+> Great questions, Mr. Bond! Microsoft is simplifying IoT with Azure IoT Central SaaS offering and more and more device builders certify their devices for Plug and Play technology that helps end-customers to use IoT without any problems! Let me show!
 
 ### Open IoT Central Application that you demonstrate to Mr. Bond.
 
-* Open `Device templates` tab in applicaiton menu on the left side and then click on `+New` button. 
+* Open `Device templates` tab in application menu on the left side and then click on `+New` button. 
 
 ![](lab1/lab1-82.PNG)
 
@@ -57,7 +57,7 @@ Now [open link with source code](https://raw.githubusercontent.com/dmitriyteteru
  
 ![](lab1/lab1-92.PNG)
   
-Then go back to IOT Central application page where your newlly added *S1 Sensor* was added and click on device name.
+Then go back to IOT Central application page where your newly added *S1 Sensor* was added and click on device name.
 ![](lab1/lab1-93.PNG)
    
 Here you will see default device dashboard that was created by device manufacturer. Let's generate some data with our Python app to see real number.
@@ -75,3 +75,12 @@ Now Paste `DeviceId`, `ScopeId` and `Primary Key` into Python app for this senso
 You should start see logs with telemetry message from app to IoT Central and data should be visible on Device Dashboard page.
 
 ![](lab1/lab1-97.PNG)
+![](lab1/lab1-98.PNG)
+
+> So Mr. Bond, you can see that if you want to start use IoT technology fast it is very easy to do with Azure IoT Central and IoT Plug and Play technology!
+
+# The End.
+
+### Lab Navigation Menu
+[Go back - 8. Add image to your IoT Central application](/iotcentral-lab1-8.md)<br>
+[Go to main page of the page LAB](/iotcentral-lab1-0.md)
