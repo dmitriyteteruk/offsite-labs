@@ -1,4 +1,4 @@
-## Bonus: Adding Plug and Play device demo
+## 9. Bonus: Adding Plug and Play device demo
 
 Mr. Bond was very impressed with your demonstration of Azur IoT Central. But he asked on more question to you:
 >It was great demo and I feel that it is exactly what I need, but what if I would like to add more sensors different from what you demonstrate to me? How difficult is it?
