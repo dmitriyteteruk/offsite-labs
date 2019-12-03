@@ -61,4 +61,4 @@ while iotc.isConnected():
 \"battery\": " + str(int(battery/10)) + "}")
 
     gCounter += 1
-    battery -= 0.2
+    battery -= 0.002
