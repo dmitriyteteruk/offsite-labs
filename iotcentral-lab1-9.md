@@ -1,6 +1,6 @@
 ## 9. Bonus: Adding Plug and Play device demo
 
-Mr. Bond was very impressed with your demonstration of Azure IoT Central. But he asked on more question to you:
+Mr. Bond was very impressed with your demonstration of Azure IoT Central. But he asked one more question to you:
 >It was great demo and I feel that it is exactly what I need, but what if I would like to add more sensors different from what you demonstrate to me? How difficult is it?
 
 ### Now, you will do real demo of adding Plug and Play Device to current IoT Central Application
